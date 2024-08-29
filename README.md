@@ -1,5 +1,5 @@
 # CPTS 427 - WASHINGTON STATE UNIVERISTY
-## CyberSecurity of Wireless Networks & Distributed Systems / Capstone Project, Complete Course Navigation
+## CyberSecurity of Wireless & Distributed Systems / Capstone Project, Complete Course Navigation
 
 > [!TIP]
 > ***For Easy Navigation on any page, always click on the Menu Icon towards the top right of the page***
