@@ -6,16 +6,20 @@
 
 ### NAVIGATION OF ALL MATERIAL 
 
-### 1. []()
-
+### 1. [Course Information](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/tree/Course-Information)
+  - #### [Textbook/Reading Material](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/tree/Textbook)
 ---
-### 2. []()
-
-
+### 2. [Additional Resources](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/tree/Additional-Resources)
+---
+### 3. [Lectures/Slides](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/tree/Lectures-Slides)
+---
+### 4. [Assignemnts](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/tree/Assignments)
+---
+### 5. [Sample Exam Questions](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/tree/Sample-Exam-Questions)
 ---
 
 > [!IMPORTANT]
-> ***This Course is meant to introduce you ***
+> ***This Course is meant to introduce you ...***
 > ***The Work and Material in this Repo is meant to provide assistance; there is a possibility that a few things here and there are not correct, so please check all contents yourself.***
 
 
