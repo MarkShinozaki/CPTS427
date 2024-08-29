@@ -19,7 +19,7 @@
 ---
 
 > [!IMPORTANT]
-> ***This Course is meant to introduce you ...***
+> ***This Course is meant to introduce you to the foundational concepts and practical applications of cellular and wireless system security, incidence response cycles, fault tolerance, and distributed computer security. It will cover both the theory and application of cyber security, networking, wireless communications, distributed systems, and fault-tolerant systems. The Work and Material in this Repo is meant to provide assistance; there is a possibility that a few things here and there are not correct, so please check all contents yourself***
 > ***The Work and Material in this Repo is meant to provide assistance; there is a possibility that a few things here and there are not correct, so please check all contents yourself.***
 
 
