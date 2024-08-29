@@ -1,0 +1,42 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{String Transformations in the WSU-System}
+\author{Mark Strong-Shinozaki}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+This experiment is of the WSU-System and is defined by the symbols \(\Sigma = \{W, S, U\}\) and a certain set of transformation rules, which will be covered. This experiment is meant to explore the use of these rules and the manipulation of stings to transition from a starting state to a desired ending state, this will provide insight into finite state automata and state transitions 
+
+\section{Methods}
+The objective is to transform the starting string 'WS' to 'WU': The rules for how to do this are detailed below:
+\begin{enumerate}
+    \item Adding a `U` if the string ends with `S`.
+    \item Then double the sequence following `W` at the beginning of the string.
+    \item Changing `SSS` with a single `U`.
+    \item Remove `UU`.
+    
+ 
+\end{enumerate}
+These rules are what will achieve the goal of acheive the target string `WU` from the initial string `WS`.
+
+\section{Experiment Conducted}
+The experiment portion involves these following steps, starting from `WS`:
+\begin{enumerate}
+    \item The starting string was `WS`.
+    \item Applied \textbf{Rule \#2} (Copy): `WS` became `WSS`.
+    \item Applied \textbf{Rule \#2} again: By copying the `S` again, `WSS` became `WSSS`.
+    \item Applied \textbf{Rule \#3} (Replace): The sequence `SSS` in `WSSS` was replaced with `U`, resulting in the string `WU`.
+\end{enumerate}
+
+\section{Results}
+This experiment turned out to be successful and I was able to transform the string from 'WS' to the target string 'WU'. The transformation occured through applying Rule \#2 twice and then Rule \#3. 
+
+\section{Experiment Discussion}
+This experiment and result tackled a few concepts and topics, being, string manipulation and state transition.  Using WSU-Systems assignment, it models design challenges and parallels that go over designing systems and maintaining secure states. This is an analogy for understanding complex systems, for example, those being in, cybersecurity, which can be manipulated and or safe guarded against unauthorized state transitions. 
+
+\end{document}
