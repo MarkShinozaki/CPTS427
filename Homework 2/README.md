@@ -3,6 +3,11 @@
 
 - This assignment covers key concepts from the assigned reading of "Wireless Communication Networks and Systems" (Beard 2016). The homework focuses on wireless communication fundamentals, including signal processing, error control, and network protocols, and is designed to deepen your understanding of the cyber security implications of wireless networks.
 
+#### [Assignment 2 Rubric](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/blob/Assignments/Homework%202/Homework%202%20-%20Wireless%20Review.png)
+#### [Assignment 2 - PDF](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/blob/Assignments/Homework%202/Cpts427-Homework2-PDF.pdf)
+#### [Assignment 2 - LaTex](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/blob/Assignments/Homework%202/Homework2-LaTex.tex)
+
+
 ### Instructions
 - Answer the following questions based on the chapters from the textbook. Use LaTeX for your documentation.
 
