@@ -1,7 +1,5 @@
 # CptS 427 - Cyber Security of Wireless and Distributed Systems
 
-## COURSE INFORMATION
-
 ## INSTRUCTOR INFORMATION
 
 **Instructor:** Dr. William Hutton, CISSP  
