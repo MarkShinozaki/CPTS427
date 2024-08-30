@@ -1,4 +1,4 @@
-# Assignment 1 - [WireShark](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/blob/Assignments/Homework%201/Homework%201%20-%20WireShark%20.png)
+# [Assignment 1 - WireShark](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/blob/Assignments/Homework%201/Homework%201%20-%20WireShark%20.png)
 
 - This assignment involves using network analysis tools like WireShark, tcpdump, or tshark to capture and analyze network traffic. The main objective is to understand network traffic capture, MAC address spoofing, and file carving techniques.
 
