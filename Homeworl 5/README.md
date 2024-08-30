@@ -2,6 +2,7 @@
 
 - The Skittles puzzle provided in the CptS 427 course is a Capture the Flag (CTF) style challenge. The puzzle consists of a file filled with Roman numerals. The goal of the assignment is not necessarily to solve the puzzle but to explore and document the problem-solving process, using various cryptographic and analytical methods to attempt a solution. This assignment emphasizes critical thinking and the application of cybersecurity principles.
 
+#### [My Work ](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/blob/Assignments/Homeworl%205/427-HW5/427HW5-Skittles.pdf)
 
 ### Simple and Brief Answers to the Questions
 
