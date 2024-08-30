@@ -32,7 +32,7 @@
 - #### [Week 16: Information Theory, Probability, and Game Theory](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/tree/Lectures-Slides/Week%2016)
 
 ---
-### 4. [Assignemnts](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/tree/Assignments)
+### 4. [Assignments](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/tree/Assignments)
 
 - #### [Assignment 1 - WireShark](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/tree/Assignments/Homework%201) 
 
