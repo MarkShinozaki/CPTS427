@@ -1,7 +1,5 @@
 
-# [Assignment 4 - Passwords](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/tree/Assignments/Homework%204)
-
-#### [Assignment 4 Rubric](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/blob/Assignments/Homework%204/CptS427-HW4%20(1).pdf)
+# [Assignment 4 - Passwords](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/blob/Assignments/Homework%204/CptS427-HW4%20(1).pdf)
 
 - This assignment focuses on analyzing different password files based on an imaginary specification for a password authentication scheme. You will need to understand the format of password files provided in the exercises.
 
