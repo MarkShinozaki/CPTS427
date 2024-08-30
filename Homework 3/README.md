@@ -1,1 +1,4 @@
-# Assignment 3 
+# Assignment 3 - WSU System
+
+- The assignment involves working with the WSU-System, which is a string manipulation system defined by specific transformation rules. You are tasked with transforming a starting string "WS" to an ending string "WU" using a series of given transformation rules.
+
