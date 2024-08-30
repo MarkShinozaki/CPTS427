@@ -2,8 +2,9 @@
 
 ## INSTRUCTOR INFORMATION
 
-**Instructor:** [Dr. William Hutton, CISSP](https://www.linkedin.com/in/william-hutton-03665393/)
-**Email:** [william.hutton@wsu.edu](mailto:william.hutton@wsu.edu)  
+### **Instructor:** [Dr. William Hutton, CISSP](https://www.linkedin.com/in/william-hutton-03665393/)
+
+### **Email:** [william.hutton@wsu.edu](mailto:william.hutton@wsu.edu)  
 
 
 ## REQUIRED TEXTBOOKS
